@@ -1,0 +1,21 @@
+# STM32CubeIDE / Eclipse workspace
+.metadata/
+.settings/
+.recovery/
+
+# Build outputs
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
