@@ -8,7 +8,7 @@ Commands are based on UART interrupt and callback. When an interrupt occurss, wh
 Python script used for connecting over COM and command sending is included.
 
 <div align="center">
-    <img src="comTest_out.png" width="800"/>
+    <img src="comTest_out.png" width="600"/>
 </div>
 
 ## BME280 Connection
