@@ -37,6 +37,7 @@ typedef struct {
 
 //
 typedef struct {
+	// calculated readings
     float temperature;
     float pressure;
     float humidity;

@@ -92,7 +92,7 @@ HAL_StatusTypeDef BME280_ReadAll(void)
 {
     uint8_t data[8];
 
-    // ALL measurement registers: 0xF7 → 0xFE (8 bytes)
+    // Read ALL measurement registers: 0xF7 -> 0xFE
     if (BME_ReadReg(0xF7, data, 8) != HAL_OK)
         return HAL_ERROR;
 
