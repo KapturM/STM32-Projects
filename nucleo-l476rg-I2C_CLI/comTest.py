@@ -1,7 +1,7 @@
 import serial
 import time
 
-port='COM3'
+port='COM5'
 baudrate=115200
 
 def send_and_receive(message):
