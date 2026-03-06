@@ -5,7 +5,7 @@
 [x] Setup and install freeRTOS\
 [x] Setup a simple Blink Task\
 [x] Add [freeRTOS_PLUS_CLI](https://www.freertos.org/Documentation/03-Libraries/02-FreeRTOS-plus/03-FreeRTOS-plus-CLI/01-FreeRTOS-plus-CLI)\
-[x] Add and test a simple command
+[x] Add and test a simple command\
 [] Implement linux console style communication\
     &nbsp;&nbsp;&nbsp;&nbsp;[x] Echo a sent character\
     &nbsp;&nbsp;&nbsp;&nbsp;[x] Echo a new line\
